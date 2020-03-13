@@ -1,0 +1,1 @@
+### 此EFI已经不再更新维护，请前往[这里获取该机型的Clover引导和OpenCore引导](https://github.com/athlonreg/Thunderobot-G7000S-9300H)
